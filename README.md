@@ -10,6 +10,11 @@ conda activate fedgtp
 bash install.sh
 ```
 
+### Run
+```bash
+bash run.sh
+```
+
 ## Default Hyperparameter Configuration
 | Hyperparameters               | Values |
 |-------------------------------|--------|
